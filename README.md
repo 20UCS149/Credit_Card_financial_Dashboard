@@ -74,11 +74,11 @@ The dashboard helps stakeholders:
 
 ## 📷 Customer Dashboard
 
-![Customer Dashboard](customer-dashboard.png)
+![Customer Dashboard PDF](credit_card_Report_Customer.pdf)
 
 ## 📷 Transaction Dashboard
 
-![Transaction Dashboard](transaction-dashboard.png)
+![Transaction Dashboard.PDF](credit_card_Report_transaction.pdf)
 
 ## 🔍 Business Insights
 
